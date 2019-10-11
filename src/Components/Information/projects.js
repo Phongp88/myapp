@@ -12,7 +12,7 @@ function projects() {
             <p className="projectLanguage"><span className="javaScript"></span>Javascript</p>
           </div>
         </a>
-        <a>
+        <a href="https://github.com/Phongp88/home">
           <div className="gridInformation">
           <h3 className="projectTitle">My Personal Website</h3>
             <p className="projectDescription">Website to sell myself by only using React and Material UI</p>
@@ -26,7 +26,7 @@ function projects() {
             <p className="projectLanguage"><span className="javaScript"></span>Javascript</p>
           </div>
         </a>
-        <a href="https://phongp88.github.io/">
+        <a href="https://github.com/Phongp88/phongp88-First-Portfolio">
           <div className="gridInformation">
             <h3 className="projectTitle">My First Portfolio</h3>
             <p className="projectDescription">That every same looking bootstrap site to display my current skills</p>
