@@ -1,1 +1,1 @@
-go to https://www.phongpham.ca to view my website!
+go to http://www.phongpham.ca to view my website!
