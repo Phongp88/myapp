@@ -1,5 +1,5 @@
 import React from 'react';
-import myProfile from './userProfileImg.jpg'
+import myProfile from './userProfileImg.png'
 function topHeader() {
   return (
     <div className="generalBox">
